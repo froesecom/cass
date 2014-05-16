@@ -1,0 +1,10 @@
+body {
+  background-color: rgba(4, 118, 189, 0.8);
+  color: white;
+  text-shadow: 2px 2px #be4b04;
+}
+#container {
+  width: 400px;
+  margin: auto;
+  padding-top: 150px;
+}
